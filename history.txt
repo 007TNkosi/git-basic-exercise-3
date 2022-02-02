@@ -1,0 +1,3 @@
+From instruction 10 on Branching:
+> There is no mentioning of history.txt having text in it.
+> This command 'history > history.txt' gives an output of 'bash: command not found'
