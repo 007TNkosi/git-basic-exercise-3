@@ -11,6 +11,5 @@
 
 ## My last review ##
 
-- The instructions do not mention creating a _history.md_ file. Only mentions readme files and one _history.txt_ file.
-- I created a file _history.md_ and outlined every command from the instructions on Git Basic Exercises.
-- Lastly, if not done properly, please instruct me with the exact instruction.
+- I realized that I capitalized 'History' instead of 'history' and that is why I had a problem.
+- I removed some history as it does not pertain to the assignment.
